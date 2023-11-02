@@ -1,1 +1,6 @@
-﻿obj
+﻿.idea
+.vs
+.vscode
+
+obj
+bin
